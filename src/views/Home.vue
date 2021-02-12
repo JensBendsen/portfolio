@@ -13,6 +13,7 @@
           </b-button>
         </b-card>
       </b-overlay>
+      <!-- added this -->
       <b-button class="mt-3" @click="show = !show">Toggle overlay</b-button>
     </div>
   </div>
